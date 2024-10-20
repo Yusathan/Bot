@@ -1,0 +1,18 @@
+1st of all make a repo and upload STRIKER, STRIKER.py, loop.sh
+make Repository name :- BOT
+
+COMMANDS 👇
+
+1- chmod +x *
+2- ./loop.sh  (tap on rebuild)
+
+3. pip install telebot
+4. pip install python-telegram-bot
+5. chmod +x *
+6. ./STRIKER 1 1 1 1
+7. python3 STRIKER.py
+
+DONE ✅ BOT IS READY 
+
+NOTE make sure the repo name is ( BOT )
+CHANNEL:- @IronStrikerX
